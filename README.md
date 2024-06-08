@@ -1,2 +1,1 @@
-"Diego Adolfo Noriega Quispe"  
-"Cambio 1" 
+Diego Adolfo Noriega Quispe 
